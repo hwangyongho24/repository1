@@ -1,3 +1,3 @@
 # repository-basic
 
-### 2018732009 황용호
+### 2000.02.24 Hwang Yong Ho
